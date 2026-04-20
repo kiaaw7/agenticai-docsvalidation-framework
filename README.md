@@ -57,7 +57,7 @@ https://github.com/kiaaw7/agenticai-docsvalidation-framework
 
 ## License
 
-[CC BY 4.0](./LICENSE) — Attribution required. Derivatives and commercial use permitted.
+[MIT](./LICENSE) — Attribution required. Derivatives and commercial use permitted.
 
 ---
 
