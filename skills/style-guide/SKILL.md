@@ -12,7 +12,7 @@ Apply documentation style standards during content creation — before validatio
 
 ## Inputs Required
 
-1. **Style guide or standards reference** — provide the document, rules, or key standards to apply
+1. **Style guide or standards reference** — provide the document, rules, or key standards to apply. Examples: Microsoft Writing Style Guide (software/UI documentation); Google Developer Documentation Style Guide (developer and API documentation); ASD-STE100 Simplified Technical English (aerospace and defense technical documentation); Plain Language Guidelines — plainlanguage.gov (U.S. federal and regulated-industry content)
 2. **Content to generate or review** — the documentation content in scope
 3. **Product terminology** — confirmed terms for UI elements, features, and workflows
 

@@ -34,6 +34,10 @@ Where the audience operates under specific regulatory requirements, reference th
 ### Depth and Detail
 Match procedural depth to the audience's workload context. Users operating under time pressure need shorter steps and less background. Users performing infrequent complex tasks need more context.
 
+## Output Format
+
+Produce adapted content in the same format as the source — topic type and structure unchanged, framing and depth adjusted for the target audience.
+
 ## What This Skill Does Not Do
 
 Audience adaptation does not substitute for domain-expert review. Whether adapted content is operationally sufficient for a specific audience requires validation by someone with direct knowledge of that audience's operational context.

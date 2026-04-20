@@ -38,7 +38,7 @@ Before generating content, confirm these inputs are available in the session:
 
 ## Output Format
 
-Produce valid DITA XML compatible with DITA-OT 4.4. Use standard DITA 1.3 element structure. Do not invent custom elements or attributes. Reference: https://github.com/dita-ot/dita-ot/releases/tag/4.4
+Produce valid DITA 1.3 XML topics. Use standard DITA 1.3 element structure. Do not invent custom elements or attributes.
 
 ## Validation Reminder
 
