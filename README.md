@@ -28,7 +28,7 @@ This framework defines a repeatable process for catching those errors before the
 | Skill | What It Does |
 |---|---|
 | [dita-xml](./skills/dita-xml/) | Generates structured DITA XML content from source inputs |
-| [style-guide](./skills/style-guide/) | Applies documentation style standards at creation time |
+| [style-guide-enforcer](./skills/style-guide-enforcer/) | Applies documentation style standards at creation time |
 | [content-architect](./skills/content-architect/) | Structures topic hierarchy and information architecture |
 | [audience-adapter](./skills/audience-adapter/) | Reframes content for distinct user groups |
 

@@ -1,5 +1,5 @@
 ---
-name: style-guide
+name: style-guide-enforcer
 
 description: Apply documentation style standards to AI-generated content at creation time — not as a post-creation checklist. TRIGGER when: user wants to enforce style guide rules during content generation; user has a style guide or documentation standards document to apply; user wants consistent terminology, voice, and formatting across generated content. SKIP: user has no style guide or standards to apply; user wants freeform prose without style constraints.
 
