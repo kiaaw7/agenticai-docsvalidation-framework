@@ -39,6 +39,14 @@ Apply style standards at the point of generation. Do not produce content first a
 - Maintain consistent structure across parallel topics
 - Apply the same pattern for equivalent UI interactions throughout
 
+## Reference
+
+Authoritative style guides supported by this skill:
+- [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
+- [Google Developer Documentation Style Guide](https://developers.google.com/style)
+- [ASD-STE100 Simplified Technical English](https://www.asd-ste100.org/)
+- [Plain Language Guidelines — plainlanguage.gov](https://www.plainlanguage.gov/guidelines/)
+
 ## What This Skill Does Not Do
 
 Style compliance does not substitute for behavioral validation. Stylistically correct content can still be operationally insufficient. Stage 3 validation is required regardless of style compliance.

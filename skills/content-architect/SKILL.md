@@ -40,3 +40,9 @@ Topics required that do not yet exist in current documentation.
 ## Output Format
 
 Produce a structured topic map as a hierarchical list with topic titles, types, and brief descriptions. Flag any gaps where source inputs are insufficient to define scope.
+
+## Reference
+
+- [DITA 1.3 Topic Types — OASIS](https://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part0-overview.html)
+- [Every Page is Page One — Mark Baker](https://everypageispageone.com/) — topic-based authoring principles
+- [Diátaxis Framework](https://diataxis.fr/) — systematic approach to technical documentation structure

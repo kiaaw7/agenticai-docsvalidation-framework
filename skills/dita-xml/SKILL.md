@@ -40,6 +40,12 @@ Before generating content, confirm these inputs are available in the session:
 
 Produce valid DITA 1.3 XML topics. Use standard DITA 1.3 element structure. Do not invent custom elements or attributes.
 
+## Reference
+
+This skill applies the DITA 1.3 standard as defined by OASIS:
+- [DITA 1.3 Specification](https://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part0-overview.html)
+- [DITA 1.3 Element Reference](https://docs.oasis-open.org/dita/dita/v1.3/errata02/os/complete/part3-all-inclusive/langRef/containers/concept-elements.html)
+
 ## Validation Reminder
 
 Output from this skill requires Stage 3 behavioral validation by the domain-expert technical communicator before publication. Generated content is a starting point, not a finished deliverable.

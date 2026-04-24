@@ -38,6 +38,12 @@ Match procedural depth to the audience's workload context. Users operating under
 
 Produce adapted content in the same format as the source — topic type and structure unchanged, framing and depth adjusted for the target audience.
 
+## Reference
+
+- [Microsoft Writing Style Guide — Audience](https://learn.microsoft.com/en-us/style-guide/audiences)
+- [Plain Language Guidelines — Know Your Audience](https://www.plainlanguage.gov/guidelines/audience/)
+- [ASD-STE100 Simplified Technical English](https://www.asd-ste100.org/) — audience-calibrated writing for technical and regulated industries
+
 ## What This Skill Does Not Do
 
 Audience adaptation does not substitute for domain-expert review. Whether adapted content is operationally sufficient for a specific audience requires validation by someone with direct knowledge of that audience's operational context.
