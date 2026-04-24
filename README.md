@@ -37,10 +37,6 @@ This framework defines a repeatable process for catching those errors before the
 ## Compatible Platforms
 
 - Claude Code (Anthropic)
-- Claude Desktop with MCP file system access
-- OpenAI Codex
-- Gemini CLI
-- Cursor
 
 ---
 
@@ -49,9 +45,11 @@ This framework defines a repeatable process for catching those errors before the
 If you use this framework in your work, please cite:
 
 ```
-William, K. (2026). AI Documentation Validation Framework. GitHub.
-https://github.com/kiaaw7/agenticai-docsvalidation-framework
+William, K. (2026). AI Documentation Validation Framework (v1.0). Zenodo.
+https://doi.org/10.5281/zenodo.19719493
 ```
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19719493.svg)](https://doi.org/10.5281/zenodo.19719493)
 
 ---
 
