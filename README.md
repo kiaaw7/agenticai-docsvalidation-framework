@@ -36,7 +36,13 @@ This framework defines a repeatable process for catching those errors before the
 
 ## Compatible Platforms
 
-- Claude Code (Anthropic)
+| Platform | Skill Format | Installation |
+|---|---|---|
+| Claude Code (Anthropic) | `SKILL.md` | [skills/](./skills/) |
+| OpenAI Codex | `AGENTS.md` | [skills/openai-codex/](./skills/openai-codex/) |
+| Gemini CLI | `GEMINI.md` | [skills/gemini-cli/](./skills/gemini-cli/) |
+| Cursor | `.mdc` rules | [skills/cursor/](./skills/cursor/) |
+| GitHub Copilot | `copilot-instructions.md` | [skills/github-copilot/](./skills/github-copilot/) |
 
 ---
 

@@ -1,14 +1,8 @@
----
-name: audience-adapter
-
-description: Reframe the same system behavior for distinct user groups with different operational contexts, knowledge bases, and task requirements. TRIGGER when: user needs to produce documentation for multiple distinct audiences from the same source; user needs audience-specific framing for a procedure or concept; AI has collapsed audience distinctions in generated content. SKIP: documentation has a single audience; content differences between audiences are minimal.
-
-license: MIT
----
-
 # Audience Adapter
 
 Reframe system behavior documentation for specific user groups — AI collapses audience distinctions without explicit direction.
+
+Copy this content into `.github/copilot-instructions.md` in your repository to use with GitHub Copilot.
 
 ## Inputs Required
 
